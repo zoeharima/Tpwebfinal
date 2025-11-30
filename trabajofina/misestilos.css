@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'FuenteTitulo';
+    src: url('fuente/Cakecafe.ttf')
+}
+body{
+    background-color: paleturquoise;
+}
+main{
+    background-color: whitesmoke;
+    
+}
+#inicio h1 {
+   color: peru;
+   font-family: 'FuenteTitulo' ; 
+    font-weight: normal; 
+}
+
