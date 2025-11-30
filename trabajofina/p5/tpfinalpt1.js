@@ -3,7 +3,7 @@
 //video explicativo 
 //https://youtu.be/Ob8Yz7THlX4
 // tpfinalpt1.js
-let pantallas = []; // Inicializar como array vacío es mejor
+let pantallas = []; 
 let Flechita;
 let fuente;
 let fmalo;
@@ -341,3 +341,4 @@ function mostrarTextoPersonalizado(texto, x, y) {
   textSize(20);
   text(texto, x, y);
 }
+
